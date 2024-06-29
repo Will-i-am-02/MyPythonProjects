@@ -1,11 +1,11 @@
-## MyPythonProjects
+### MyPythonProjects
 
 # *stanCode* Projects
 
 Hello!\
 This repository holds my programming projects done during the period of stanCode SC001-SC101 courses.
 
-Project Source Codes:
+# Project Source Codes:
 
 * [Hangman Game](https://www.youtube.com/watch?v=VSQop2frJLw&list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP&index=5&pp=iAQB)
   * python semantics & syntax
